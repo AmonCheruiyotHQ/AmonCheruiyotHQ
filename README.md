@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I'm [@AmonCheruiyotHQ]<br>- 👀 I'm interested in building innovative and user-centric mobile apps.<br>- 🌱 I'm currently learning advanced state management techniques in Flutter.<br>- 💞️ I'm looking to collaborate on open-source Flutter projects that push the boundaries of mobile app development.<br>- 📫 You can reach me through ALL social media platforms @AmonCheruiyotHQ as my username.<br>
+- 👋 Hi, I'm Amon Cheruiyot<br>- 👀 I'm interested in building innovative and user-centric mobile apps.<br>- 🌱 I'm currently learning advanced state management techniques in Flutter.<br>- 💞️ I'm looking to collaborate on open-source Flutter projects that push the boundaries of mobile app development.<br>- 📫 You can reach me through ALL social media platforms @AmonCheruiyotHQ as my username.<br>
 
 
 ## 🌐 Socials:
