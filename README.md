@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I'm Amon Cheruiyot<br>- 👀 I'm interested in building innovative and user-centric mobile apps.<br>- 🌱 I'm currently learning advanced state management techniques in Flutter.<br>- 💞️ I'm looking to collaborate on open-source Flutter projects that push the boundaries of mobile app development.<br>- 📫 You can reach me through ALL social media platforms @AmonCheruiyotHQ as my username.<br>
+- 👋 Hi, I'm Amon Cheruiyot<br>- A Mobile Developer - interested in building innovative and user-centric mobile apps using ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic) Framework.<br>- A ![](https://img.shields.io/badge/mql4-%2302569B.svg?style=plastic) & ![](https://img.shields.io/badge/mql5-%2302569B.svg?style=plastic) Developer - Automating Forex Trading by coding Forex Robots .<br>- Looking to collaborate on open-source Flutter projects that push the boundaries of mobile app development.<br>
 
 
 ## 🌐 Socials:
