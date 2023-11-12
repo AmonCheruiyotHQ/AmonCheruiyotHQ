@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I'm Amon Cheruiyot<br>- A Mobile Developer - interested in building innovative and user-centric mobile apps using ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic) Framework.<br>- A ![](https://img.shields.io/badge/mql4-%2302569B.svg?style=plastic) & ![](https://img.shields.io/badge/mql5-%2302569B.svg?style=plastic) Developer - Automating Forex Trading by coding Forex Robots .<br>- Looking to collaborate on open-source Flutter projects that push the boundaries of mobile app development.<br>
+- 👋 Hi, I'm Amon Cheruiyot<br>- A Cyber Security🤓 Enthusiast - with a genuine enthusiasm to learn, innovate, and make a meaningful impact in safeguarding digital assets and empowering individuals and organizations against cyber threats. <br>- A ![](https://img.shields.io/badge/mql4-%2302569B.svg?style=plastic) & ![](https://img.shields.io/badge/mql5-%2302569B.svg?style=plastic) Developer - Automating Forex Trading by coding Forex Robots .<br>- I am not only fascinated by the technical aspects of cybersecurity but also deeply motivated by the ethical responsibility to contribute to a safer and more secure digital environment.<br>
 
 
 ## 🌐 Socials:
